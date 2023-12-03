@@ -26,7 +26,7 @@ Horiseon is a website that showcases digital marketing solutions, including sear
 
 Feel free to clone the repository and explore the codebase.
 Additionally, here's a screenshot of the Horiseon webpage for a quick preview:
-![Horiseon Webpage Screenshot](.\assets\images\HoriseonPrintScreen.png)
+![Horiseon Webpage Screenshot](assets\images\HoriseonPrintScreen.png)
 This screenshot provides a visual representation of the Horiseon webpage.
 
 ## Technologies
