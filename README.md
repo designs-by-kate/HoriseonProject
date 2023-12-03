@@ -17,10 +17,10 @@ Horiseon is a website that showcases digital marketing solutions, including sear
 
 ## Features
 
-- Utilizes semantic HTML elements such as `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>`. 
+- Utilizes semantic HTML elements such as `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>`.
 - Groups related content within appropriate containers.
 - Maintains a logical hierarchy for heading elements.
-- Removes classes (`float-left` and `float-right`) from HTML for styling, relocating them to the CSS code. 
+- Removes classes (`float-left` and `float-right`) from HTML for styling, relocating them to the CSS code.
 
 ## Usage
 
